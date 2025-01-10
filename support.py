@@ -8,7 +8,7 @@ st.subheader("Steps:")
 st.markdown("**Step 1 :**")
 st.write("Go to : https://aistudio.google.com/prompts/new_chat")
 st.write("accept terms a conditions")
-st.image("support\image1.png")
+st.image("support/image1.png")
 
 st.markdown("**Step 2:**")
 st.write("Go to Get API key")
