@@ -31,5 +31,4 @@ st.markdown("**Step 6:**")
 st.write("Google Gemini API Key Successfully created")
 st.image("support/image7.png")
 
-st.subheader("Refresh the page once the API Key is created to run the application")
 
